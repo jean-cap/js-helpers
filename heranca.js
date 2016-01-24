@@ -11,7 +11,7 @@ function herdar(obj) {
     if (t !== 'object' && t !== 'function') throw TypeError();
     // DEFINE UMA FUNÇÃO CONSTRUTORA FICTÍCIA
     function f() {
-    };
+    }
     f.prototype = obj;
     return new f();
 }
