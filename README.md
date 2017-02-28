@@ -1,3 +1,3 @@
-# CÛdigos ajudantes para JavaScript
+# C√≥digos √∫teis para JavaScript
 
-Este repositÛrio È destinado para cÛdigos em JavaScript que s„o usados para realizar tarefas frequentes no dia-a-dia.
+Este reposit√≥rio √© destinado para c√≥digos em JavaScript que s√£o usados para realizar tarefas frequentes no dia-a-dia.
